@@ -25,7 +25,7 @@ The Game of Fifteen (also called 15-puzzle, Gem Puzzle, Boss Puzzle, Mystic Squa
 </a>
 
 
-Report a bug or request a feature
+ Report a ⚠️ bug or Request a Feature
 ----------------
 Before creating a new issue please make sure that same or similar issue is not already created by checking [open issues][2] and [closed issues][3] *(please note that there might be multiple pages)*. If your issue is already there, don't create a new one, but leave a comment under already existing one.
 
